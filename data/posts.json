@@ -1,0 +1,83 @@
+[
+  {
+    "title": "1. TypeScript Types",
+    "description": "타입스크립트는 데이터와 변수의 타입을 명시적으로 정의할수도 있고 타입을 따로 설정하지않으면 스스로 타입을 추론 해준다.",
+    "date": "2022-09-11",
+    "category": "TypeScript",
+    "path": "TypeScriptTypes",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/440px-Typescript_logo_2020.svg.png",
+    "featured": false
+  },
+  {
+    "title": "2. TypeScript function",
+    "description": "함수가 어떻게 호출되는지 설명해주는 과정.  함수를 구현하기전에 함수의 타입을 먼저 정의하는 것을 뜻함",
+    "date": "2022-09-13",
+    "category": "TypeScript",
+    "path": "TypeScriptFunction",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/440px-Typescript_logo_2020.svg.png",
+    "featured": false
+  },
+  {
+    "title": "브라우저 렌더링",
+    "description": "브라우저는 캐싱된 DNS 기록들에서 검색한 주소에 대응되는 IP주소가 있는지 확인한다",
+    "date": "2023-02-06",
+    "category": "WEB",
+    "path": "WebPage-Rendering",
+    "image": "https://velog.velcdn.com/images/aeong98/post/56319908-b678-410a-9ac2-252f731c3810/image.png",
+    "featured": true
+  },
+  {
+    "title": "HTTP",
+    "description": "브라우저와 서버 간에 데이터를 주고 받기 위한 방식으로 사용되며 상호 간에 정의한 규칙을 의미합니다",
+    "date": "2023-02-07",
+    "category": "WEB",
+    "path": "Http",
+    "image": "https://joshua1988.github.io/images/posts/web/http/request-response.png",
+    "featured": true
+  },
+  {
+    "title": "GET VS POST",
+    "description": "GET,POST는 둘다 브라우저에서 서버로 요청하는 메서드입니다.",
+    "date": "2023-02-07",
+    "category": "WEB",
+    "path": "Get-Post",
+    "image": "",
+    "featured": false
+  },
+  {
+    "title": "함수형 프로그래밍",
+    "description": "자료 처리를 수학적 함수의 계산으로 취급하고 상태와 가변 데이터를 멀리하는 프로그래밍 패러다임의 하나를 뜻함",
+    "date": "2023-02-23",
+    "category": "PROGRAMMING",
+    "path": "FunctionalProgramming",
+    "image": "",
+    "featured": false
+  },
+  {
+    "title": "객체지향 프로그래밍",
+    "description": "프로그램을 수많은 '객체(object)'형태로 묶어서 관리하는 것을 뜻한다.",
+    "date": "2023-02-28",
+    "category": "PROGRAMMING",
+    "path": "OOP",
+    "image": "https://4.bp.blogspot.com/-Ia1i0SAIYiw/XUMpw5FdV7I/AAAAAAAAH_8/FF78CSJIfHQpDypfL3eZ7YckUKF6VbSVQCLcBGAs/s1600/python%2Boop_1.png",
+    "featured": true
+  },
+  {
+    "title": "프로세스(process) & 스레드(thread)",
+    "description": "프로세스들은 컴퓨터의 자원을 분할해서 사용하지만 스레드는 프로세스마다 주어진 자원을 함께 사용함",
+    "date": "2023-03-02",
+    "category": "PROGRAMMING",
+    "path": "ProcessThread",
+    "image": "https://goodgid.github.io/assets/img/os/what_is_thread_1.png",
+    "featured": false
+  },
+  {
+    "title": "비동기 프로그래밍",
+    "description": "현재 실행중인 코드가 실행 완료 되지 않더라도 필요에 의해서 다음 코드를 실행하는 방식을 뜻함",
+    "date": "2023-03-02",
+    "category": "PROGRAMMING",
+    "path": "asynchronous-programming",
+    "image": "https://velog.velcdn.com/images%2Fedie_ko%2Fpost%2F1a6bbcb0-40d5-461d-9de9-d2f58613a62b%2Fimage.png",
+    "featured": true
+  }
+]
